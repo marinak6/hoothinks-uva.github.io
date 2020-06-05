@@ -11,13 +11,13 @@ const ContactCard = () => (
             <div className="contact-card__info">
                 <img className="contact-card__icon" src={phone} ></img>
                 <div class="contact-card__info-text">
-                    703-753-1234
+                    703-853-2108
                 </div>
             </div>
             <div className="contact-card__info">
                 <img className="contact-card__icon" src={email} ></img>
                 <div class="contact-card__info-text">
-                    HT@gmail.com
+                    alb5rv@virginia.edu
                 </div>
             </div>
         </div>
